@@ -1,0 +1,9 @@
+First command
+
+//To initiate npm with all Yes
+npm init --yes
+
+//to install dependancy
+npm install playwright chai prettier @cucumber/cucumber cucumber-html-reporter
+
+create folder stucture
